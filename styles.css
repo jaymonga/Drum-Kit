@@ -10,7 +10,12 @@ h1 {
   text-shadow: 3px 0 #DA0463;
 
 }
-
+p{
+  ont-size: 2rem;
+  color: #FFFFFF;
+  font-family: "Arvo", cursive;
+}
+  
 footer {
   color: #DBEDF3;
   font-family: sans-serif;
