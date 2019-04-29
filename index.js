@@ -41,10 +41,3 @@ document.querySelectorAll(".drum")[i].addEventListener("click", function(){
     }
 });
 }
-
-//Detecting Keyboard Press
-document.addEventListener("keydown", function(event) {
-
-  makeSound(event.key);
-
-});
